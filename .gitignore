@@ -1,3 +1,6 @@
 *.exe
 *.mp4
 *.png
+data.txt
+*.wav
+*.flac
