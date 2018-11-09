@@ -1,4 +1,4 @@
-use command to make individual png files:
+use command to make individual png files (doesn't work in a batch file quite right):
 
 ffmpeg.exe -i VIDEO_2018_11_9.webm.mp4-Ia0WE4YhZKQ.mp4 frames\frame%06d.png -hide_banner
 
